@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "matricula": "36-sw-94",
+        "marca": "BMW",
+        "modelo": "x6",
+        "cor": "branca",
+        "portas": "5",
+        "precoDiario": 300.0,
+        "cilindrada": 2.0,
+        "potencia": "300cv"
+    },
+    {
+        "id": 3,
+        "matricula": "gt-54-12",
+        "marca": "Mercedes",
+        "modelo": "classe A",
+        "cor": "preto",
+        "portas": "3",
+        "precoDiario": 250.0,
+        "cilindrada": 2.5,
+        "potencia": "300"
+    },
+    {
+        "id": 4,
+        "matricula": "yh-48-pl",
+        "marca": "BMW",
+        "modelo": "x4",
+        "cor": "branco",
+        "portas": "5",
+        "precoDiario": 200.0,
+        "cilindrada": 2.0,
+        "potencia": "400"
+    },
+    {
+        "id": 5,
+        "matricula": "87-pq-26",
+        "marca": "Citroen",
+        "modelo": "C1",
+        "cor": "prata",
+        "portas": "3",
+        "precoDiario": 40.0,
+        "cilindrada": 1.0,
+        "potencia": "80"
+    },
+    {
+        "id": 6,
+        "matricula": "54-ow-25",
+        "marca": "Peugeot",
+        "modelo": "3008",
+        "cor": "prata",
+        "portas": "5",
+        "precoDiario": 150.0,
+        "cilindrada": 1.6,
+        "potencia": "200"
+    }
+]
